@@ -1,7 +1,7 @@
 {
   "name": "codigo",
   "version": "1.0.0",
-  "description": "express mysql",
+  "description": "Simple y Bonito",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -11,10 +11,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "cors": "^2.8.5",
+    "ejs": "^3.1.10",
     "express": "^4.19.2"
   },
   "devDependencies": {
-    "nodemon": "^3.1.2"
+    "nodemon": "^3.1.4"
   }
 }
